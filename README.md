@@ -54,7 +54,7 @@ A modern portfolio website with digital garden and blog functionalities, featuri
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 float-portfolio/
 ├── app/                  # Next.js app directory
 │   ├── blog/             # Blog pages
@@ -74,7 +74,7 @@ float-portfolio/
 ├── docs/                 # Documentation
 ├── README.md             # Project overview
 └── package.json          # Project dependencies
-\`\`\`
+```
 
 ## 🛠️ Built With
 
