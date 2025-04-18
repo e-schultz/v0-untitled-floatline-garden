@@ -1,6 +1,10 @@
+- https://v0-evan-schultz-portfolio.vercel.app/
+- https://v0.dev/chat/projects/3kZ3oFbrpn6
+
 # FLOAT Portfolio Website
 
-![FLOAT Banner](public/images/float-banner.png)
+<img width="968" alt="Screenshot 2025-04-18 at 10 16 12 AM" src="https://github.com/user-attachments/assets/0aa75dba-888a-4672-82dc-4a8512eba598" />
+
 
 A modern portfolio website with digital garden and blog functionalities, featuring a cyberpunk-inspired aesthetic with a distinctive magenta/pink on black color scheme.
 
